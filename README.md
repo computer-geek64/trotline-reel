@@ -6,7 +6,7 @@
 * Infections caused by Salmonella, Vibrio, and other bacteria are potentially dangerous and can lead to amputations and/or death
 * Crabbers must pull up/put out their lines at least once or twice a day.
 * In total, crabbers have around 1,200 ft. of line
-* 
+* Pulling up and putting out trotline by hand can cause many tangles
 
 ## To do
 - [ ] Get statistical information about how long it would take to pull in/put out a trotline of approximately 1,200 ft.
