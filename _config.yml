@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: Trotline Reel
+description: A sanitary solution to simplify pulling in and putting out a trotline in an efficient manner.
+show_downloads: true
+include: CONTRIBUTING.md, LICENSE.md
