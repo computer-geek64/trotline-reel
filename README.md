@@ -25,7 +25,19 @@
 
 ## Created With
 * Software:
+  * Autodesk Products:
+    * Autodesk Inventor
+    * Autodesk AutoCAD
+  * Dremel 3D
+  * Ultimaker Cura
 * Hardware:
+  * Plastic
+  * Metal
+  * Wood
+  * Gears
+  * 3D Printer:
+    * Dremel 3D Printer
+    * Ultimaker 2 3D Printer
 
 ## Contributing
 Please read the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for details on our code fo conduct and pull request policy.
