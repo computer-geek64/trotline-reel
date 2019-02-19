@@ -1,8 +1,6 @@
 # Trotline Reel
 *February 19th, 2019*
 
-
-
 ## Problem Statement
 * Trotlines are unsafe, time-consuming, and exhausting when pulling up and putting out
 * Infections caused by Salmonella, Vibrio, and other bacteria are potentially dangerous and can lead to amputations and/or death
@@ -22,6 +20,15 @@
 * Easy to reel in or out
 * Less chance of becoming tangled
 * Features easy storage
+
+## Getting Started
+The following items are needed for this project:
+* **1x** [Item 1](https://github.com/)
+
+For a complete list of parts, see the [parts-list.md](/docs/parts-list.md) file.
+
+### Prerequisites
+Prerequisites
 
 ## Created With
 * Software:
