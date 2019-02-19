@@ -49,8 +49,9 @@ This project uses [git](https://git-scm.com/) version control.
 See the [sources.md](/docs/sources.md) file for information gathered to help create this project.
 
 ## Developers
-* **Ashish D'Souza** - *Role* - [computer-geek64](https://github.com/computer-geek64/)
-* **Samson Bailor** - *Role*
+* **Ashish D'Souza** - *Software engineer* - [computer-geek64](https://github.com/computer-geek64/)
+* **Samson Bailor** - *Project manager*
+* **Kyle Fuchs** - *Hardware engineer*
 
 See also the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
 
