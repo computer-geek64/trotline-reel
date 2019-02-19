@@ -25,11 +25,11 @@
 
 ## Created With
 * Software:
+  * Dremel 3D
+  * Ultimaker Cura
   * Autodesk Products:
     * Autodesk Inventor
     * Autodesk AutoCAD
-  * Dremel 3D
-  * Ultimaker Cura
 * Hardware:
   * Plastic
   * Metal
