@@ -9,18 +9,6 @@ Trotlines are unsafe, time-consuming, and exhausting to handle. Crabbers must ma
 ### Design Brief
 A trotline reel could solve all of the hazardous problems caused by direct contact with a trotline. The trotline reel will limit physical contact with bait and brackish water to a minimum, preventing infections of various diseases. The reel can be either manually or mechanically powered, and will help to facilitate the process required to retract and release the trotline. Additionally, the trotline will be free of tangles and compacted for minimal storage, featuring easy attachment and removal.
 
-## To do
-- [ ] Get statistical information about how long it would take to pull in/put out a trotline of approximately 1,200 ft.
-
-## Getting Started
-The following items are needed for this project:
-* **1x** [Item 1](https://github.com/)
-
-For a complete list of parts, see the [parts-list.md](/docs/parts-list.md) file.
-
-### Prerequisites
-Prerequisites
-
 ## Created With
 * Software:
   * Dremel 3D
