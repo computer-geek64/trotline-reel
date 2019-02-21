@@ -37,12 +37,6 @@ Prerequisites
     * Dremel 3D Printer
     * Ultimaker 2 3D Printer
 
-## Contributing
-Please read the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for details on our code fo conduct and pull request policy.
-
-## Versioning
-This project uses [git](https://git-scm.com/) version control.
-
 ## Sources
 See the [sources.md](/docs/sources.md) file for information gathered to help create this project.
 
@@ -51,10 +45,13 @@ See the [sources.md](/docs/sources.md) file for information gathered to help cre
 * **Ashish D'Souza** - *Software engineer* - [computer-geek64](https://github.com/computer-geek64/)
 * **Kyle Fuchs** - *Hardware engineer*
 
-See also the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
+See the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
+
+## Contributing
+Please read the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for details on our code of conduct and contribution policy.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgements
-* Thanks to Mr. Bogdziewicz for helping us with our project.
+* Thanks to Mr. Bogdziewicz for teaching PLTW Engineering Design and Development.
