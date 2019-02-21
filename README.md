@@ -42,7 +42,7 @@ See the [sources.md](/docs/sources.md) file for information gathered to help cre
 
 ## Developers
 * **Samson Bailor** - *Project manager*
-* **Ashish D'Souza** - *Software engineer* - [computer-geek64](https://github.com/computer-geek64/)
+* [**Ashish D'Souza**](https://github.com/computer-geek64/) - *Software engineer*
 * **Kyle Fuchs** - *Hardware engineer*
 
 See the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
