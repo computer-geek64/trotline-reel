@@ -26,7 +26,7 @@ A trotline reel could solve all of the hazardous problems caused by direct conta
     * Ultimaker 2 3D Printer
 
 ## Sources
-See the [sources.md](/docs/sources.md) file for information gathered to help create this project.
+See the [sources](/docs/sources.md) file for information gathered to help create this project.
 
 ## Developers
 * **Samson Bailor** - *Project manager*
@@ -36,10 +36,10 @@ See the [sources.md](/docs/sources.md) file for information gathered to help cre
 See the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
 
 ## Contributing
-Please read the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for details on our code of conduct and contribution policy.
+Please read the [contributing](/docs/CONTRIBUTING.md) file for details on our code of conduct and contribution policy.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [license](LICENSE.md) file for details.
 
 ## Acknowledgements
 * Thanks to Mr. Bogdziewicz for teaching PLTW Engineering Design and Development.
