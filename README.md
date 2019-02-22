@@ -25,6 +25,9 @@ A trotline reel could solve all of the hazardous problems caused by direct conta
     * Dremel 3D Printer
     * Ultimaker 2 3D Printer
 
+## Progress
+See the [progress](/docs/progress.md) file for documented progress on this project.
+
 ## Sources
 See the [sources](/docs/sources.md) file for information gathered to help create this project.
 
