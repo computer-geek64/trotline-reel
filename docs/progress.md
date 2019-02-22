@@ -1,5 +1,16 @@
 # Progress
-**Samson Bailor, Ashish D'Souza, and Kyle Fuchs**
+*February 22nd, 2019*
+
+## February 19th, 2019
+* Finalized group members
+* Defined project roles:
+  * Samson Bailor: *Project Captian*
+  * Ashish D'Souza: *Software Engineer*
+  * Kyle Fuchs: *Hardware Engineer*
+* Began project research
+
+## February 20th, 2019
+No school, snow day
 
 ## February 21st, 2019
 * Finalized problem statement
