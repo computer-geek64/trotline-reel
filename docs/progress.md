@@ -1,7 +1,11 @@
 # Progress
 *February 22nd, 2019*
 
-## February 19th, 2019
+## Monday 2/18/19
+* Presidents' Day
+* No school
+
+## Tuesday 2/19/19
 * Finalized group members
 * Defined project roles:
   * Samson Bailor: *Project Captian*
@@ -9,15 +13,16 @@
   * Kyle Fuchs: *Hardware Engineer*
 * Began project research
 
-## February 20th, 2019
-No school, snow day
+## Wednesday 2/20/19
+* Snow day
+* No school
 
-## February 21st, 2019
+## Thursday 2/21/19
 * Finalized problem statement
 * Finalized design brief
 * Presented project proposal to Mr. Bogdziewicz for feedback
 
-## February 22nd, 2019
+## Friday 2/22/19
 * Worked on preliminary reel designs
 * Brainstormed ideas:
   * Telescoping reel for adaptable storage
