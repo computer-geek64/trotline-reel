@@ -1,5 +1,5 @@
 # Trotline Reel
-*February 21st, 2019*
+*February 24th, 2019*
 
 ## Problem Statement and Design Brief
 
@@ -34,7 +34,7 @@ See the [sources](/docs/sources.md) file for information gathered to help create
 ## Developers
 * **Samson Bailor** - *Project manager*
 * [**Ashish D'Souza**](https://github.com/computer-geek64/) - *Software engineer*
-* **Kyle Fuchs** - *Hardware engineer*
+* **Kyle Fuchs** - *Mechanical engineer*
 
 See the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this project.
 
