@@ -42,7 +42,7 @@ See the list of [contributors](/docs/CONTRIBUTORS.md) who participated in this p
 Please read the [contributing](/docs/CONTRIBUTING.md) file for details on our code of conduct and contribution policy.
 
 ## License
-This project is licensed under the MIT License - see the [license](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [license](LICENSE) file for details.
 
 ## Acknowledgements
 * Thanks to Mr. Bogdziewicz for teaching PLTW Engineering Design and Development.
