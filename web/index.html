@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,6 +20,14 @@
 	<link rel="stylesheet" href="vendors/animate-css/animate.css">
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
+
+	<!-- JS variable definitions -->
+	<script>
+		var website = "http://trotline-reel.serveo.net/";
+		var github = "https://computer-geek64.github.io/trotline-reel/";
+		var github_repository = "https://github.com/computer-geek64/trotline-reel/";
+		var ashish_github = "https://github.com/computer-geek64/";
+	</script>
 </head>
 
 <body>
@@ -39,9 +47,9 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav ml-auto">
-							<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+							<li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
 							<li class="nav-item"><a class="nav-link" href="overview.html">Overview</a></li>
-							<li class="nav-item"><a class="nav-link" href="Service.html">Service</a></li>
+							<li class="nav-item"><a class="nav-link" href="service.html">Service</a></li>
 							<li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
@@ -52,8 +60,8 @@
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GitHub</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="https://computer-geek64.github.io/trotline-reel/">Website</a></li>
-									<li class="nav-item"><a class="nav-link" href="https://github.com/computer-geek64/trotline-reel/">Repository</a></li>
+									<li class="nav-item"><a class="nav-link variable github-url href">Website</a></li>
+									<li class="nav-item"><a class="nav-link variable github-repository-url href">Repository</a></li>
 								</ul>
 							</li>
 							<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
@@ -63,7 +71,7 @@
 								<a href="https://www.pltw.org/our-programs/pltw-engineering/" title="PLTW Engineering">
 									<li><i class="fas fa-atom"></i></li>
 								</a>
-								<a href="https://computer-geek64.github.io/trotline-reel/" title="GitHub">
+								<a class="variable github-url href" title="GitHub">
 									<li><i class="fab fa-github"></i></li>
 								</a>
 								<a href="https://stackoverflow.com/users/5228766/computer-geek64/" title="Stack Overflow">
@@ -311,7 +319,7 @@
 					<div class="main_title">
 						<h2>About Us</h2>
 						<p>Meet the highly trained engineering trio from <a href="https://www.polytechpanthers.com/">POLYTECH High School</a>. We are seniors in the Engineering Design Technology (EDT) career pathway, taught the legendary <a href="https://www.polytechpanthers.com/apps/pages/index.jsp?type=u&uREC_ID=302242">Mr. Robert Bogdziewicz</a>. Unlike other schools, POLYTECH provides more than 9 credits for engineering courses, 6 of which are nationally recognized <a href="https://www.pltw.org/our-programs/pltw-engineering/">Project Lead The Way (PLTW)</a> courses. Our current class, Engineering Design and Development (EDD) is one such PLTW course. It is a project-oriented engineering capstone course aimed at teaching students to work cooperatively to solve technical problems.</p>
-						<center style="margin-top: 30px;"><a class="primary-btn text-uppercase" href="#about">Read More</a></center>
+						<center style="margin-top: 10px;"><a class="primary-btn text-uppercase" href="#about">Read More</a></center>
 					</div>
 				</div>
 			</div>
@@ -320,7 +328,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img class="img-fluid" src="img/team/team1.jpg" alt="">
+							<img class="img-fluid" src="img/team/team1.jpg" alt="Samson Bailor">
 						</div>
 						<div class="author_decs">
 							<h5>Samson Bailor</h5>
@@ -332,7 +340,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img class="img-fluid" src="img/team/team2.jpg" alt="">
+							<img class="img-fluid" src="img/team/team2.jpg" alt="Ashish D'Souza">
 						</div>
 						<div class="author_decs">
 							<h5>Ashish D'Souza</h5>
@@ -344,7 +352,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img class="img-fluid" src="img/team/team3.jpg" alt="">
+							<img class="img-fluid" src="img/team/team3.jpg" alt="Kyle Fuchs">
 						</div>
 						<div class="author_decs">
 							<h5>Kyle Fuchs</h5>
@@ -449,7 +457,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-6">
 						<div class="single-footer-widget">
 							<h5 class="footer_title">About Trotline Reel</h5>
-							<p class="about-text">This open-source project is licensed under the <a href="license.txt">MIT License</a>.</p>
+							<p class="about-text">This open-source project is licensed under the <a href="license.txt">MIT License</a>. The <a class="variable website-url href">website</a> is developed and maintained by the webmaster, <a class="variable ashish-github-url href">Ashish D'Souza</a>. Please contact him with any questions or concerns.</p>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6">
@@ -459,17 +467,17 @@
 								<div class="col-5">
 									<ul class="list">
 										<li><a href="#">Home</a></li>
-										<li><a href="#">Features</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Portfolio</a></li>
+										<li><a href="overview.html">Overview</a></li>
+										<li><a href="service.html">Service</a></li>
+										<li><a href="team.html">Team</a></li>
 									</ul>
 								</div>
 								<div class="col-5">
 									<ul class="list">
-										<li><a href="#">Team</a></li>
-										<li><a href="#">Pricing</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">contact</a></li>
+										<li><a href="elements.html">Elements</a></li>
+										<li><a class="variable github-url href">GitHub</a></li>
+										<li><a class="variable github-repository-url href">Repository</a></li>
+										<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</div>
 							</div>
@@ -516,12 +524,12 @@
 				<div class="row">
 					<div style="width: 89%">
 						<!-- Copyright 2019 Ashish D'Souza, Samson Bailor, Kyle Fuchs. All Rights Reserved. -->
-						<p>Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="mailto:ashish.dsouza@students.polytech.k12.de.us">Ashish D'Souza</a>, <a href="mailto:samson.bailor@students.polytech.k12.de.us">Samson Bailor</a>, <a href="mailto:kyle.fuchs@students.polytech.k12.de.us">Kyle Fuchs</a>. All rights reserved. Website developed by <a href="https://github.com/computer-geek64/">Ashish D'Souza</a>.</p>
+						<p>Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="mailto:ashish.dsouza@students.polytech.k12.de.us">Ashish D'Souza</a>, <a href="mailto:samson.bailor@students.polytech.k12.de.us">Samson Bailor</a>, <a href="mailto:kyle.fuchs@students.polytech.k12.de.us">Kyle Fuchs</a>. All rights reserved.</p>
 					</div>
 					<div class="text-right" style="width: 11%;">
 						<div class="social-icons">
 							<a href="https://www.pltw.org/our-programs/pltw-engineering/" title="PLTW Engineering"><i class="fas fa-atom"></i></a>
-							<a href="https://computer-geek64.github.io/trotline-reel/" title="GitHub"><i class="fab fa-github"></i></a>
+							<a class="variable github-url href" title="GitHub"><i class="fab fa-github"></i></a>
 							<a href="https://stackoverflow.com/users/5228766/computer-geek64/" title="Stack Overflow"><i class="fab fa-stack-overflow"></i></a>
 							<a href="https://www.instagram.com/computer_geek64/" title="Instagram"><i class="fab fa-instagram"></i></a>
 						</div>
@@ -547,9 +555,45 @@
 	<script src="vendors/counter-up/jquery.counterup.js"></script>
 	<script src="js/mail-script.js"></script>
 	<!--gmaps Js-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVA6ZDp8xHF9W7caJyg_5FMihdYlfc38E"></script>
 	<script src="js/gmaps.min.js"></script>
 	<script src="js/theme.js"></script>
+
+	<script>
+		for(var i = 0; i < document.getElementsByClassName("variable website-url href").length; i++) {
+			document.getElementsByClassName("variable website-url href")[i].href = website;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable website-url innerText").length; i++) {
+			document.getElementsByClassName("variable website-url innerText")[i].innerText = website;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-url href").length; i++) {
+			document.getElementsByClassName("variable github-url href")[i].href = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-url innerText").length; i++) {
+			document.getElementsByClassName("variable github-url innerText")[i].innerText = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-repository-url href").length; i++) {
+			document.getElementsByClassName("variable github-repository-url href")[i].href = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-repository-url innerText").length; i++) {
+			document.getElementsByClassName("variable github-repository-url innerText")[i].innerText = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable ashish-github-url href").length; i++) {
+			document.getElementsByClassName("variable ashish-github-url href")[i].href = ashish_github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable ashish-github-url innerText").length; i++) {
+			document.getElementsByClassName("variable ashish-github-url innerText")[i].innerText = ashish_github;
+		}
+	</script>
+
+	<!-- Smooth scrolling JS script -->
 	<script>
 	//Smooth scrolling
 	$(document).ready(function(){
