@@ -47,8 +47,8 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav ml-auto">
-							<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Overview</a></li>
+							<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+							<li class="nav-item active"><a class="nav-link" href="#">Overview</a></li>
 							<li class="nav-item"><a class="nav-link" href="service.html">Service</a></li>
 							<li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
 							<li class="nav-item submenu dropdown">
@@ -309,6 +309,68 @@
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
 	<script src="js/gmaps.min.js"></script>
 	<script src="js/theme.js"></script>
-</body>
 
+	<script>
+		for(var i = 0; i < document.getElementsByClassName("variable website-url href").length; i++) {
+			document.getElementsByClassName("variable website-url href")[i].href = website;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable website-url innerText").length; i++) {
+			document.getElementsByClassName("variable website-url innerText")[i].innerText = website;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-url href").length; i++) {
+			document.getElementsByClassName("variable github-url href")[i].href = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-url innerText").length; i++) {
+			document.getElementsByClassName("variable github-url innerText")[i].innerText = github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-repository-url href").length; i++) {
+			document.getElementsByClassName("variable github-repository-url href")[i].href = github_repository;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable github-repository-url innerText").length; i++) {
+			document.getElementsByClassName("variable github-repository-url innerText")[i].innerText = github_repository;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable ashish-github-url href").length; i++) {
+			document.getElementsByClassName("variable ashish-github-url href")[i].href = ashish_github;
+		}
+
+		for(var i = 0; i < document.getElementsByClassName("variable ashish-github-url innerText").length; i++) {
+			document.getElementsByClassName("variable ashish-github-url innerText")[i].innerText = ashish_github;
+		}
+	</script>
+
+	<!-- Smooth scrolling JS script -->
+	<script>
+	//Smooth scrolling
+	$(document).ready(function(){
+	  // Add smooth scrolling to all links
+	  $("a").on('click', function(event) {
+	
+	    // Make sure this.hash has a value before overriding default behavior
+	    if (this.hash !== "") {
+	      // Prevent default anchor click behavior
+	      event.preventDefault();
+	
+	      // Store hash
+	      var hash = this.hash;
+	
+	      // Using jQuery's animate() method to add smooth page scroll
+	      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+	      $('html, body').animate({
+	        scrollTop: $(hash).offset().top
+	      }, 800, function(){
+	   
+	        // Add hash (#) to URL when done scrolling (default click behavior)
+	        window.location.hash = hash;
+	      });
+	    } // End if
+	  });
+	});
+	</script>
+</body>
 </html>
