@@ -742,17 +742,17 @@ button:focus {
       margin-right: 30px;
       position: relative;
       text-transform: capitalize; }
-      .banner_area .banner_inner .banner_content .page_link a:before {
-        content: "\f178";
-        font: normal normal normal 14px/1 FontAwesome;
-        position: absolute;
-        right: -25px;
-        top: 50%;
-        transform: translateY(-50%); }
-      .banner_area .banner_inner .banner_content .page_link a:last-child {
-        margin-right: 0px; }
-        .banner_area .banner_inner .banner_content .page_link a:last-child:before {
-          display: none; }
+    .banner_area .banner_inner .banner_content .page_link a:before {
+      content: "\f178" !important;
+      font: normal normal normal 14px/1 FontAwesome;
+      position: absolute;
+      right: -25px;
+      top: 50%;
+      transform: translateY(-50%); }
+    .banner_area .banner_inner .banner_content .page_link a:last-child {
+      margin-right: 0px; }
+    .banner_area .banner_inner .banner_content .page_link a:last-child:before {
+      display: none; }
 
 /* End Home Banner Area css
 ============================================================================================ */
