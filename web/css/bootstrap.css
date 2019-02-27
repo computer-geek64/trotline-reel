@@ -187,7 +187,7 @@ a:hover {
     text-decoration: underline
 }
 
-a:not([href]):not([tabindex]) {
+a:not([href]):not([tabindex]):not([disable-a-inheritance]) {
     color: inherit;
     text-decoration: none
 }
