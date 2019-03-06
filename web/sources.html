@@ -28,6 +28,28 @@
 		var github_repository = "https://github.com/computer-geek64/trotline-reel/";
 		var ashish_github = "https://github.com/computer-geek64/";
 	</script>
+
+	<!-- CSS Styling -->
+	<style>
+		.sources-table {
+			text-align: left;
+			border-collapse: collapse;
+			margin: auto; // Center tables on screen
+		}
+
+		.sources-table th {
+			text-align: center;
+		}
+
+		.sources-table td, .sources-table th {
+			padding: 5px;
+			border: 1px solid black;
+		}
+
+		.sources-table a:hover {
+			color: #f13d80;
+		}
+	</style>
 </head>
 
 <body>
@@ -53,10 +75,10 @@
 							<li class="nav-item submenu dropdown active">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Documentation</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item active"><a class="nav-link" href="#">Parts List</a></li>
+									<li class="nav-item"><a class="nav-link" href="parts-list.html">Parts List</a></li>
 									<li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
 									<li class="nav-item"><a class="nav-link" href="progress.html">Progress</a></li>
-									<li class="nav-item"><a class="nav-link" href="sources.html">Sources</a></li>
+									<li class="nav-item active"><a class="nav-link" href="#">Sources</a></li>
 								</ul>
 							</li>
 							<li class="nav-item submenu dropdown">
@@ -109,52 +131,63 @@
 	</section>
 	<!--================End Home Banner Area =================-->
 
-	<!--================ Start Team Area =================-->
+	<!--================ Start Area =================-->
 	<section class="section_gap">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-lg-7">
-					<div class="main_title">
-						<h2>External Sources</h2>
-						<div style="text-align: left;">
-							<table>
-								<tr>
-									<th>Title</th>
-									<th>Author</th>
-									<th>Date</th>
-									<th>Source Type</th>
-									<th>URL</th>
-								</tr>
-								<tr>
-									<td>Vibrio Species Causing Vibrosis</td>
-									<td>Centers for Disease Control and Prevention (CDC)</td>
-									<td>September 28th, 2018</td>
-									<td>Website</td>
-									<td>https://www.cdc.gov/vibrio/index.html</td>
-								</tr>
-								<tr>
-									<td>Salmonella</td>
-									<td>Centers for Disease Control and Prevention (CDC)</td>
-									<td>February 26th, 2019</td>
-									<td>Website</td>
-									<td>https://www.cdc.gov/salmonella/index.html</td>
-								</tr>
-								<tr>
-									<td>GitHub</td>
-									<td>Chris Wanstrath</td>
-									<td>2008</td>
-									<td>Website</td>
-									<td>https://github.com/</td>
-								</tr>
-							</table>
-						</div>
-						<p>Meet the experienced engineers from <a href="https://www.polytechpanthers.com/">POLYTECH High School</a>. We are seniors in the Engineering Design Technology (EDT) career pathway, taught by <a href="https://www.polytechpanthers.com/apps/pages/index.jsp?type=u&uREC_ID=302242">Mr. Robert Bogdziewicz</a>. Each member of our team is highly specialized in a certain field, allowing us to pool our knowledge effectively and efficiently.</p>
-					</div>
+				<div class="main_title">
+					<h2>External Sources</h2>
+					<br>
+					<h3>Websites</h3>
+					<table class="sources-table">
+						<tr>
+							<th>Title</th>
+							<th>Author</th>
+							<th>Date Published</th>
+							<th>URL</th>
+						</tr>
+						<tr>
+							<td>Vibrio Species Causing Vibrosis</td>
+							<td>Centers for Disease Control and Prevention (CDC)</td>
+							<td>September 28th, 2018</td>
+							<td><a href="https://www.cdc.gov/vibrio/index.html">https://www.cdc.gov/vibrio/index.html</a></td>
+						</tr>
+						<tr>
+							<td>Salmonella</td>
+							<td>Centers for Disease Control and Prevention (CDC)</td>
+							<td>February 26th, 2019</td>
+							<td><a href="https://www.cdc.gov/salmonella/index.html">https://www.cdc.gov/salmonella/index.html</a></td>
+						</tr>
+						<tr>
+							<td>GitHub</td>
+							<td>Chris Wanstrath, Tom Preston-Werner, P. J. Hyett, Scott Chacon</td>
+							<td>February 8th, 2008</td>
+							<td><a href="https://github.com/">https://github.com/</a></td>
+						</tr>
+					</table>
+					<br>
+					<h3>People</h3>
+					<table class="sources-table">
+						<tr>
+							<th>First Name</th>
+							<th>Last Name</th>
+							<th>Date</th>
+							<th>Organization</th>
+							<th>Contact</th>
+						</tr>
+						<tr>
+							<td>Robert</td>
+							<td>Bogdziewicz</td>
+							<td>January 28th, 2019 - Present</td>
+							<td>POLYTECH High School Engineering Design Technology (EDT)</td>
+							<td><a href="mailto:robert.bogdziewicz@polytech.k12.de.us">robert.bogdziewicz@polytech.k12.de.us</a></td>
+						</tr>
+					</table>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!--================ End Team Area =================-->
+	<!--================ End Area =================-->
 
 	<!--================  start footer Area =================-->
 	<footer class="footer-area">
@@ -164,7 +197,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-6">
 						<div class="single-footer-widget">
 							<h5 class="footer_title">About Trotline Reel</h5>
-							<p class="about-text">This open-source project is licensed under the <a href="license.txt">MIT License</a>. The <a class="variable website-url href">website</a> is developed and maintained by the webmaster, <a class="variable ashish-github-url href">Ashish D'Souza</a>. Please contact him with any questions or concerns.</p>
+							<p class="about-text">This open-source project is licensed under the <a href="license.txt">MIT License</a>. The <a class="variable website-url href">website</a> is developed and maintained by the webmaster, <a class="variable ashish-github-url href">Ashish D'Souza</a>. Please contact him with any questions or concerns. Page last updated on March 5th, 2019.</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-6">
