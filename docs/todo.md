@@ -8,3 +8,6 @@
   - [x] Samson Bailor
   - [x] Ashish D'Souza
   - [ ] Kyle Fuchs
+- [ ] Update sources dates
+- [ ] Update termination date on the bottom of all pages
+  - [ ] Copy termination date to all pages
