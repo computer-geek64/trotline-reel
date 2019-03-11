@@ -63,3 +63,29 @@
 * No school
 
 ## Monday 3/4/19
+* Began designing plate rotation designs
+* Worked on Plate Rotation with Pins and Plate Rotation with Teeth concepts
+* Continued work on documentation section of website
+
+## Tuesday 3/5/19
+* Finished all concept pictures for the website
+* Finished structure for documentation section of website
+
+## Wednesday 3/6/19
+* Took pictures of team members
+* Uploaded pictures of team members to About Us page of website
+
+## Thursday 3/7/19
+* Reviewed all concepts
+* Discussed final design possibilities
+* Determined that more research was needed before finalization
+* Fixed problems with images of team members being rotated
+
+## Friday 3/8/19
+* Researched:
+  * Common boat configurations
+  * Trotlining methods
+* Researched information about required paper (Samson Bailor)
+* Created features section on home page of website
+
+## Monday 3/11/19
