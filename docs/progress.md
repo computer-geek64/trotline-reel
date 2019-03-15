@@ -104,8 +104,8 @@
 
 ## Thursday 3/14/19
 * Conducted further research into volume calculations
+* Developed crank system with gears that adds efficiency/mechanical advantage to the reeling process
 * Watched SkillsUSA Awards Ceremony in class
-* Developed crank system with gears that add efficiency/mechanical advantage to the reeling process
 
 ## Friday 3/15/19
 * Compiled progress for the past two weeks
