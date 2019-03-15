@@ -89,3 +89,24 @@
 * Created features section on home page of website
 
 ## Monday 3/11/19
+* Researched methods for attaching fixed bracket mount to smaller vessels
+* Fixed scrolling bugs in website
+
+## Tuesday 3/12/19
+* Concluded that fixed bracket mount would be used for final design after thorough research
+* Concluded that tri-plate reel would be used for final design after thorough research
+* Found dimensions for 1200' 1/4" rope
+* Calculated the volume of rope
+* Found the dimensions for a chicken neck and calculated the volume
+
+## Wednesday 3/13/19
+* Team was at SkillsUSA State Awards Ceremony
+
+## Thursday 3/14/19
+* Conducted further research into volume calculations
+* Watched SkillsUSA Awards Ceremony in class
+* Developed crank system with gears that add efficiency/mechanical advantage to the reeling process
+
+## Friday 3/15/19
+* Compiled progress for the past two weeks
+* Wrote progress reports
