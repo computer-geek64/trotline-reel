@@ -110,3 +110,4 @@
 ## Friday 3/15/19
 * Compiled progress for the past two weeks
 * Wrote progress reports
+* Compiled more research and sources into the website
