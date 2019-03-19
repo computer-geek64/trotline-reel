@@ -111,3 +111,13 @@
 * Compiled progress for the past two weeks
 * Wrote progress reports
 * Compiled more research and sources into the website
+
+## Monday 3/18/19
+* Watched Samson Bailor's presentation on the life cycle of the blue crab, as well as Andrew Wilson's presentation
+* Worked on finishing missing information on website and populating research section
+
+## Tuesday 3/19/19
+* Continued populating the research section of the website
+* Modified and uploaded calculation documents
+* Added more sources to the website
+* Finalized structure of Research page
