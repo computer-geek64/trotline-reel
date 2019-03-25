@@ -145,13 +145,21 @@
 						<tr>
 							<td></td>
 							<td></td>
-							<td id="quantity">2</td>
-							<td id="price">5</td>
-							<td><script>document.write("$" + document.getElementById("quantity").innerText * document.getElementById("price").innerText);</script></td>
+							<td id="quantity1">2</td>
+							<td id="price1">5</td>
+							<td class="net-price1">$<script>document.write((document.getElementById("quantity1").innerText * document.getElementById("price1").innerText.slice(1)).toFixed(2));</script></td>
 						</tr>
 						<tr>
 							<th colspan="4" style="text-align: left;">Total</th>
-							<th style="text-align: left;">$0.00</th>
+							<th style="text-align: left;">$
+								<script>
+									var sum = 0;
+									for(var i = 0; i < document.getElementsByClassName("net-price1").length; i++) {
+										sum += document.getElementsByClassName("net-price1")[i].innerText.slice(1);
+									}
+									document.write(sum.toFixed(2));
+								</script>
+							</th>
 						</tr>
 					</table>
 					<br>
