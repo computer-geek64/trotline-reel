@@ -147,17 +147,17 @@
 							<td></td>
 							<td id="quantity1">2</td>
 							<td id="price1">5</td>
-							<td class="net-price1">$<script>document.write((document.getElementById("quantity1").innerText * document.getElementById("price1").innerText.slice(1)).toFixed(2));</script></td>
+							<td class="net-price1"><script>document.write("$" + (document.getElementById("quantity1").innerText * document.getElementById("price1").innerText.slice(1)).toFixed(2));</script></td>
 						</tr>
 						<tr>
 							<th colspan="4" style="text-align: left;">Total</th>
-							<th style="text-align: left;">$
+							<th style="text-align: left;">
 								<script>
 									var sum = 0;
 									for(var i = 0; i < document.getElementsByClassName("net-price1").length; i++) {
 										sum += document.getElementsByClassName("net-price1")[i].innerText.slice(1);
 									}
-									document.write(sum.toFixed(2));
+									document.write("$" + sum.toFixed(2));
 								</script>
 							</th>
 						</tr>
