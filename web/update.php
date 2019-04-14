@@ -1,4 +1,4 @@
 <?php
 	//exec("sudo git pull");
-	exec("eject -T");
+	exec("sudo eject -T");
 ?>
