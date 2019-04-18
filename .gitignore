@@ -1,3 +1,4 @@
 # Ignore secure folder
 secure/
-nz.mp4
+src/inventor/OldVersions/
+src/inventor/lockfile.lck
