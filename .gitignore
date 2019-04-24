@@ -1,4 +1,2 @@
-# Ignore secure folder
-secure/
 src/inventor/OldVersions/
 src/inventor/lockfile.lck
