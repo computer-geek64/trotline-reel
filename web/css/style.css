@@ -1126,7 +1126,7 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area {
-  background: url(../img/cta-bg.jpg) center no-repeat;
+  //background: url(../img/cta-bg.jpg) center no-repeat;
   background-size: cover;
   text-align: center;
   color: #fff;
